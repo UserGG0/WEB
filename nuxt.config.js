@@ -3,8 +3,8 @@ export default {
     const i18nHead = this.$nuxtI18nHead({ addSeoAttributes: true })
 
     return {
-      title: 'Discord Search ID',
-      titleTemplate: '%s - Lookup.Guru',
+      title: 'User.gg',
+      titleTemplate: '%s - User.gg',
       htmlAttrs: {
         ...i18nHead.htmlAttrs
       },
@@ -25,12 +25,12 @@ export default {
 
         { rel: 'canonical', href: 'https://lookup.guru/' },
 
-        { hid: 'title', name: 'title', content: 'Discord Search ID - Lookup.Guru' },
+        { hid: 'title', name: 'title', content: 'Larges database of pls donate messages - User.gg' },
         {
           hid: 'description',
           name: 'description',
           content:
-            'Lookup.Guru is a free and open source Discord search engine. It allows you to search for Discord IDs and get information about them.'
+            'User.gg is a free and Discord search engine. It allows you to search for Discord IDs and get messages they sent and  information about them. Made with 💗 by arize'
         },
         ...i18nHead.meta
       ],
