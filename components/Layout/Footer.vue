@@ -18,7 +18,7 @@
       </div>
     </div>
     <div>
-      <a href="https://lookup.guru" class="font-bold hover:underline" target="_blank">LookupGuru</a>
+      <a href="https://lookup.guru" class="font-bold hover:underline" target="_blank">User.gg</a>
       - {{ $t('discord') }}
     </div>
   </div>
