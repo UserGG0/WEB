@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>LookupGuru</ShortName>
-  <Description>LookupGuru ile Discord ID Sorgulama</Description>
+  <ShortName>Uder.gg</ShortName>
+  <Description>User.gg / The biggest database of discord pls donate users</Description>
 
   <Url type="text/html" method="get"
        template="https://lookup.guru/{searchTerms}?sourceid=opensearch"/>
   <Image width="48" height="48">https://lookup.guru/favicon.ico</Image>
 
   <SyndicationRight>limited</SyndicationRight>
-  <Developer>LookupGuru Development Team</Developer>
+  <Developer>Dynamic</Developer>
   <AdultContent>false</AdultContent>
 
   <InputEncoding>UTF-8</InputEncoding>
